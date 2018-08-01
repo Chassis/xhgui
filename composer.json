@@ -10,7 +10,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Chassis/xhgui-collector"
+            "url": "https://github.com/Chassis/xhgui-collector.git"
         }
     ],
     "require": {
